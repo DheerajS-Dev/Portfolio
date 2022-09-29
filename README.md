@@ -16,14 +16,26 @@
 
 # Sample :
 
+Home Page
+
 ![Screenshot (3)](https://user-images.githubusercontent.com/77190618/193133903-85f614c0-4dc0-40f2-a649-a3058aa5efd2.png)
+
+About Section
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/77190618/193133918-8c4373db-bad7-4c5e-a6aa-40e1bb77aa29.png)
 
+Services Section
+
 ![Screenshot (5)](https://user-images.githubusercontent.com/77190618/193133955-cfff8e88-4308-43d1-9305-8fc20e556e32.png)
+
+Skills Section
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/77190618/193133984-9a17e6ae-8462-4219-a9f2-c205e955de39.png)
 
+Projects Section
+
 ![Screenshot (7)](https://user-images.githubusercontent.com/77190618/193134006-4e2bf3c5-5619-43bd-8a13-74d038239c56.png)
+
+Contact Section
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/77190618/193134020-4d30972f-7a4b-4636-a9e1-c55d05860d51.png)
